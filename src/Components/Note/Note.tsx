@@ -1,7 +1,4 @@
-import React from "react";
-
 import deleteIcon from "../../assets/delete.svg";
-
 import "./Note.css";
 
 let timer = 500,
